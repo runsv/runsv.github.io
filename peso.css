@@ -1,0 +1,174 @@
+@charset "UTF-8";
+
+/*
+ * this is a comment
+ */
+
+/*
+body {
+  background-color: #FFFFFF ;
+  color: #000000 ;
+}
+
+:link { color: #0002EE ; }
+:visited { color: #FF0000 ; }
+:active { color: #000000 ; }
+div.c2 { text-align: center ; }
+h1.c1 { text-align: center ; }
+
+"\2022"
+"\25E6"
+"\25AA"
+*/
+
+html {
+  /*
+  background-color: #F8F8F8 ;
+  background-color: #EEEEEE ;
+  background-color: #000080 ;
+  background-color: darkslategray ;
+  background-color: gray ;
+  */
+  background-color: #4a525a ;
+}
+
+body {
+  /*
+  max-width: 650px ;
+  margin-top: 5% ;
+  margin-bottom: 5% ;
+  margin-left: 5% ;
+  margin-right: 5% ;
+  */
+  margin: 5% auto ;
+  line-height: 1.6 ;
+  font-size: 18px ;
+  color: #444 ;
+  background-color: #EEEEEE ;
+  padding: 2% ;
+  width: 90% ;
+  border: solid #FFFFFF 1px ;
+  border-radius: 0.6em ;
+}
+
+h1, h2, h3 {
+  /*
+  text-align: left ;
+  */
+  line-height: 1.2 ;
+  color: #000080 ;
+}
+
+h1 {
+  text-align: center ;
+}
+
+h2, h3, h4, h5 {
+  text-align: left ;
+}
+
+h1:before, h2:before, h3:before {
+  content: "\2756" ;
+  padding-right: 0.5em ;
+}
+
+h1:after, h2:after, h3:after {
+  content: "\2756" ;
+  padding-left: 0.5em ;
+}
+
+:link {
+  color: #000080 ;
+}
+
+:visited {
+  /*
+  background-color: #D0D0FF ;
+  color: #000080 ;
+  border-radius: 4px ;
+  */
+  color: #FF0000 ;
+}
+
+/*
+a:active {
+}
+*/
+
+a:hover {
+  /*
+  color: #FF0000 ;
+  background-color: inherit ;
+  background-color: #D0D0FF ;
+  */
+  background-color: gray ;
+  color: #000080 ;
+  border-radius: 4px ;
+}
+
+div.box {
+  /*
+  margin: 5% auto ;
+  */
+  border: solid ;
+  border-width: thin ;
+  width: 100% ;
+}
+
+div.cbox {
+  /*
+  width: 100% ;
+  margin: 5% auto ;
+  */
+  border: solid ;
+  border-width: thin ;
+  background: rgb(204,204,255) ;
+  padding: 0.5em ;
+}
+
+/* page banner */
+#banner {
+  text-align: center ;
+}
+
+/* page header */
+#header {
+  text-align: center ;
+}
+
+/* main page content */
+#main {
+  color: #444 ;
+  background-color: #EEEEEE ;
+  border-radius: 0.3em ;
+}
+
+/* page footer */
+#footer {
+  /*
+  background-color: #C0C0C0 ;
+  color: #444 ;
+  color: #4a525a ;
+  color: #0000FF ;
+  color: #000080 ;
+  color: #008000 ;
+  color: #008080 ;
+  color: #C0C0C0 ;
+  color: #800000 ;
+  color: #808000 ;
+  color: #808080 ;
+  color: gray ;
+  color: #FF0000 ;
+  color: #000080 ;
+  */
+  color: #FFF ;
+  background-color: #4a525a ;
+  border-radius: 0.3em ;
+  margin-left: 2% ;
+  margin-right: 2% ;
+  margin-top: 5% ;
+  margin-bottom: 1% ;
+  padding: 0.3em ;
+  text-align: center ;
+}
+
