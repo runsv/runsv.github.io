@@ -9,4 +9,4 @@ Systemd sucks and is a big pile of crap.
 
 More information:
 
-- (http://without-systemd.org/)[]
+- [without-systemd wiki](http://without-systemd.org/)
