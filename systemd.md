@@ -1,4 +1,8 @@
 
+![nosystemd](nosystemd.png)
+
+> If this is the solution, I want my problem back.
+
 # A word about systemd
 
 You already may have noticed aswell that
