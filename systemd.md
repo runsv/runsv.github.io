@@ -1,5 +1,5 @@
 
-![nosystemd](nosystemd.png)
+![nosystemd logo](nosystemd.png)
 
 > If this is the solution, I want my problem back.
 
