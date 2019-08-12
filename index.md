@@ -3,5 +3,6 @@
 
 This is the github page of user runsv.
 
-[systemd sucks](nosysd.md)
+[systemd](https://www.freedesktop.org/wiki/Software/systemd/)
+[sucks](nosysd.md)
 
